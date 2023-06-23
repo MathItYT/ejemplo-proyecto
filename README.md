@@ -6,6 +6,7 @@
 4. Un bot de Discord ejecutará el código dado el enlace de GitHub. De eso se encargará el jurado.
 5. Recuerda que no necesariamente debe resolver un problema original, pero sí la solución debe ser original. Por ejemplo, puedes hacer un programa que calcule el factorial de un número, pero no puedes copiar el código de otro lado.
 6. Sí está permitida la colaboración por equipos.
+7. Si vas a usar otras librerías, deberás crear un archivo `requirements.txt` con las librerías necesarias para ejecutar el programa. Recuerda que puedes crearlo con `pip freeze > requirements.txt`.
 
 ## Criterios de evaluación
 1. Originalidad de la solución.
